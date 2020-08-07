@@ -1,3 +1,3 @@
-#Git 7 August
+# Git 7 August
 
-Started Learning about GIT from freecode
+Started Learning about GIT from freecode updated
